@@ -1,3 +1,3 @@
 # [Geyser Industries] - Business 
 
-Initial startup by Jennifer Nguyen
+Initial startup code by Jennifer Nguyen
